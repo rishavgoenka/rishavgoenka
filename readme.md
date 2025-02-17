@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavgoenka)](https://github.com/rishavgoenka/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=rishavgoenka&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 # rishavgoenka
 This is my first Git Repository
 <br>Author - Rishav Goenka
